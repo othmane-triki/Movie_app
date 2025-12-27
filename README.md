@@ -168,7 +168,7 @@ Contributions, issues, and feature requests are welcome!
 ## 👨‍💻 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/othmane-triki)
+- GitHub: https://github.com/othmane-triki
 - Email: trikiotmane@gmail.com
 
 ## 🙏 Acknowledgments
